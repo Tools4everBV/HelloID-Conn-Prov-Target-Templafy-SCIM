@@ -1,0 +1,24 @@
+[
+  {
+    "key": "ClientSecret",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "ClientSecret",
+      "type": "password",
+      "description": "The ClientSecret for the SCIM API.",
+      "required": true
+    }
+  },
+  {
+    "key": "BaseUrl",
+    "type": "input",
+    "defaultValue": "",
+    "templateOptions": {
+      "label": "BaseUrl",
+      "description": "The URL to the application",
+      "placeholder": "",
+      "required": true
+    }
+  }
+]
