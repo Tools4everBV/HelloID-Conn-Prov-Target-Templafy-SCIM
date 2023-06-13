@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img src="./assets/logo.png">
+  <img src="https://www.tools4ever.nl/connector-logos/templafy-logo.png">
 </p> 
 
 ## Table of contents
